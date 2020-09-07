@@ -1,0 +1,501 @@
+,index,City,Address,Zip,Price,Date,Seller,Buyer,Transaction Type
+0,0,Ithaca,"911 East Shore Drive(Ithaca, 14850)",14850,"$128,000",July-09-2020,"Wirtz, Trustee, Mary H.","Card, William T.",Standard (arm's length)
+1,1,Ithaca,"114 Kelvin Place(Ithaca, 14850)",14850,"$610,000",July-09-2020,"Harrell, James S.","Verma, Sushil K.",Standard (arm's length)
+2,2,Ithaca,"326 Coddington Road(Ithaca, 14850)",14850,"$157,000",July-09-2020,"Matthew Moghaddam, Estate","Pieper, Alphonse",Standard (arm's length)
+3,3,Ithaca,"730 Cliff Street(Ithaca, 14850)",14850,"$180,000",July-06-2020,"Erickson, Brian G.","Cuevas Gongora, Joaquin Armando",Standard (arm's length)
+4,4,Ithaca,"Third Street(Ithaca, 14850)",14850,$1,July-06-2020,Cornell University,"The People of the State, of New York","Not a sale deed, Governement sale"
+5,5,Ithaca,"311 E. Tompkins Street(Ithaca, 14850)",14850,"$179,000",July-06-2020,"Lapp, Julia L.","Moore, William L.",Standard (arm's length)
+6,6,Ithaca,"215 Renwick Drive(Ithaca, 14850)",14850,$1,July-03-2020,"Dickinson, Nancy","Lewis, Jennifer","Not a sale deed, Sale between relatives"
+7,7,Ithaca,"309 East Falls Street(Ithaca, 14850)",14850,"$316,499",July-03-2020,"McCauley, Erin","Fouracre, Christopher",Standard (arm's length)
+8,8,Ithaca,"975 Taughannock Blvd(Ithaca, 14850)",14850,$1,July-02-2020,"Klausner, Adam","MacLeod, Meredith",Not a sale deed
+9,9,Ithaca,"101-5 Eastwood Avenue(Ithaca, 14850)",14850,"$465,000",July-02-2020,"Wildeman, Christopher J.","Klepack, John Andrew",Standard (arm's length)
+10,10,Ithaca,"126 Hawthorne Place(Ithaca, 14850)",14850,"$262,500",July-02-2020,"Grout, Travis A.","Morean, Mackenzie Ashton",Standard (arm's length)
+11,11,Ithaca,"115 Cascadilla Street(Ithaca, 14850)",14850,"$228,000",July-02-2020,"OKane, Liam F.","Erickson, Brian G.",
+12,12,Ithaca,"115 Coy Glen Road(Ithaca, 14850)",14850,"$230,000",July-02-2020,"Rogers, Carmen M.","Wright, Alexandra and Robert",Standard (arm's length)
+13,13,Ithaca,"208 Snyder Hill Road(Ithaca, 14850)",14850,"$235,000",July-01-2020,"Stoneman, Cindy","Wojtowicz, Robert",Standard (arm's length)
+14,14,Ithaca,"120 Larisa Lane(Ithaca, 14850)",14850,"$585,000",July-01-2020,"Specht (f.k.a. Cambell), Julie L.","Casler-Goncalves, Jennifer P.",Standard (arm's length)
+15,15,Ithaca,"323 Warren Place(Ithaca, 14850)",14850,"$294,000",July-01-2020,"Finan, Gail T.","Barbasch, Sophie",Standard (arm's length)
+16,16,Ithaca,"303 Old Gorge Road(Ithaca, 14850)",14850,"$470,000",June-30-2020,"Norman, John","Gee, Christopher",Standard (arm's length)
+17,17,Ithaca,"129 Westview Lane(Ithaca, 14850)",14850,"$346,000",June-30-2020,"Yeh, Hombean, Yarwei & Dean",Fahey Family Trust,Standard (arm's length)
+18,18,Ithaca,"212 Ridgedale Road(Ithaca, 14850)",14850,"$270,000",June-30-2020,"Hoellrich, Cameron M.","Chen, Guopeng",Standard (arm's length)
+19,19,Ithaca,"205 Eastern Heights Drive(Ithaca, 14850)",14850,"$226,000",June-29-2020,"Salamon, Barbara","Madsen, Rachel M.",
+20,20,Ithaca,"211 Cobb Street(Ithaca, 14850)",14850,"$395,605",June-29-2020,"Garner, Matthew Ryan","Kapustin, Max",Standard (arm's length)
+21,21,Ithaca,"401 Cliff Park Road(Ithaca, 14850)",14850,"$285,000",June-29-2020,"Lowman, Dean E.","Sen, Pankaj Kumar",Standard (arm's length)
+22,22,Ithaca,"209 Second St(Ithaca, 14850)",14850,$1,June-26-2020,"Demos, James A","Mad2nd, LLC","Buyer is seller, Not a sale deed"
+23,23,Ithaca,"118 Snyder Hill Road(Ithaca, 14850)",14850,$1,June-26-2020,"Benson, Megan S.","Benson, Megan S.","Buyer is seller, Not a sale deed"
+24,24,Ithaca,"307 East Marshall St(Ithaca, 14850)",14850,$1,June-26-2020,"Demos, James A","Mad2nd, LLC","Buyer is seller, Not a sale deed"
+25,25,Ithaca,"112 Walnut Street(Ithaca, 14850)",14850,"$440,000",June-26-2020,"Warner, John Craig","Jaffe, Julia G.",Standard (arm's length)
+26,26,Ithaca,"203 College Avenue(Ithaca, 14850)",14850,"$999,999",June-26-2020,"Golder, Neil","Lower, Josh W.",Standard (arm's length)
+27,27,Ithaca,"428 North Tioga Street(Ithaca, 14850)",14850,"$355,000",June-25-2020,"Shank, Gerda","Lee, Suzy",Standard (arm's length)
+28,28,Ithaca,"43 Whitetail Drive(Ithaca, 14850)",14850,"$228,000",June-25-2020,"Russell, Carolyn S.","Albanese, Jonathan O.",Standard (arm's length)
+29,29,Lansing,"0 Fiddlers Ridge(Lansing, 14882)",14882,"$10,000",June-24-2020,"Cutting Cars of Ithaca,, Inc.","DeWall, Jonah P.",
+30,30,Ithaca,"128 Blair Street(Ithaca, 14850)",14850,"$315,000",June-22-2020,"Kim, Jinee",Phoenix 123 LLC,Standard (arm's length)
+31,31,Ithaca,"332 South Cayuga Street(Ithaca, 14850)",14850,"$325,000",June-22-2020,"Kay, Jeffrey A.","Schreck Properties, LLC",Standard (arm's length)
+32,32,Ithaca,"111 East Spencer Street(Ithaca, 14850)",14850,"$402,500",June-19-2020,"Penniman, Peter W.","111SpencerStreetHomes, LL",Standard (arm's length)
+33,33,Ithaca,"416 Cascadilla Street(Ithaca, 14850)",14850,"$53,814",June-19-2020,"Narylor, Garry","Herneisey, Joanne E.",Buyer is seller
+34,34,Ithaca,"317.5 Utica Street(Ithaca, 14850)",14850,"$125,000",June-19-2020,"Iolanda Bordoni, Estate","Tsokyi, Tenzin",Not a sale deed
+35,35,Lansing,"2250 N. Triphammer Rd, Unit T4(Lansing, 14850)",14850,"$154,000",June-19-2020,"First Ithaca Chinese, Christian Church","Teng, Stephan",
+36,36,Ithaca,"49 Whitetail Drive(Ithaca, 14850)",14850,"$207,100",June-18-2020,"Martin, William H., Estate of","Kellogg, Steven A.",Standard (arm's length)
+37,37,Ithaca,"409 Haller Blvd(Ithaca, 14850)",14850,$1,June-16-2020,"Genung, Jeannette","Genun, Jr., Clarence W.","Not a sale deed, Sale between relatives"
+38,38,Ithaca,"911 East Shore Drive(Ithaca, 14850)",14850,$1,June-16-2020,"Blank, Linda aka Linda M.","Wirtz, Trustee, Mary H.",
+39,39,Ithaca,"542 North Taylor Place(Ithaca, 14850)",14850,$1,June-16-2020,"Bruce, Thomas","Thomas Robert Bruce and, Judith Stevens Pratt",
+40,40,Ithaca,"109 Homestead Road(Ithaca, 14850)",14850,"$60,000",June-15-2020,"Morse, Katrina R.","Gabler, Francine Masi",Standard (arm's length)
+41,41,Ithaca,"108 Birchwood Drive(Ithaca, 14850)",14850,"$319,000",June-15-2020,"Wilks, David J.","Lai, William KM",Standard (arm's length)
+42,42,Ithaca,"1540 Slaterville Road(Ithaca, 14850)",14850,"$193,000",June-15-2020,"Hoffmann, Andrew G.","Johnson, Keri A.",
+43,43,Ithaca,"106 Auburn Street(Ithaca, 14850)",14850,"$308,000",June-15-2020,"Sandman, Susan G.","Liao, Guomei",Standard (arm's length)
+44,44,Ithaca,"110, 112 & Stewart Avenue(Ithaca, 14850)",14850,"$1,210,000",June-15-2020,"Snyder, Glenn","110-112-113 Stewart Ave,",Standard (arm's length)
+45,45,Ithaca,"124 Seven Mile Drive(Ithaca, 14850)",14850,"$150,000",June-12-2020,"Welch, Charles",Town of Ithaca,Standard (arm's length)
+46,46,Ithaca,"215 #A2 W. Spencer Street(Ithaca, 14850)",14850,"$387,000",June-12-2020,"Net Zero NRG, LLC","Schrafel, Peter C.",
+47,47,Ithaca,"105 Birdseye View Drive(Ithaca, 14850)",14850,$1,June-11-2020,"Bayo, Richard","KB Properties, LLC",Related company sale
+48,48,Ithaca,"227 Cherry Street(Ithaca, 14850)",14850,$1,June-10-2020,"227 Cherry Street, LLC","Carpenter, Michael F.",Buyer is seller
+49,49,Ithaca,"638 Elmira Road(Ithaca, 14850)",14850,"$390,000",June-10-2020,"Veteran Valunteer, Firemens Association of","Kanji Ahir + Sons, Co., L",Standard (arm's length)
+50,0,Ithaca,"274 Hayts Road(Ithaca, 14850)",14850,"$145,000",June-10-2020,"Grosvenor, David","Potenza, Dana Scott",Standard (arm's length)
+51,1,Ithaca,"226 Cecil A. Malone Drive(Ithaca, 14850)",14850,"$2,500,000",June-10-2020,"MTP of Ithaca, Inc.","Downstate 201 Excavation, LLC",Standard (arm's length)
+52,2,Ithaca,"100 Wildflower Dr.(Ithaca, 14850)",14850,"$394,000",June-09-2020,"Estate of Doreen J., Rudan","Kim, John C.",Standard (arm's length)
+53,3,Ithaca,"231 Wildflower Drive #3(Ithaca, 14850)",14850,"$210,000",June-09-2020,"Lugay, Jose","Kiiti, Ndunge",Standard (arm's length)
+54,4,Ithaca,"609 Mitchell Street(Ithaca, 14850)",14850,"$450,000",June-08-2020,"Hammer, Andrea G.","Detmer, Thomas",
+55,5,Ithaca,"204 Tudor Road(Ithaca, 14850)",14850,"$278,000",June-08-2020,"Nieves, Eluid","Cosgrave, James",
+56,6,Ithaca,"40 Penny Lane(Ithaca, 14850)",14850,"$166,000",June-08-2020,"Ryan, Patti","Rummings, Julie Ann",Standard (arm's length)
+57,7,Ithaca,"322 Park Place(Ithaca, 14850)",14850,"$288,500",June-05-2020,"Anible Nowakowski, Barbara G.","Park, Connie",Standard (arm's length)
+58,8,Ithaca,"145 Iradell Road(Ithaca, 14850)",14850,"$412,500",June-05-2020,"Heise, Alice Karma","Reiling, Steven G.",Standard (arm's length)
+59,9,Ithaca,"139 East King Road(Ithaca, 14850)",14850,$1,June-05-2020,"Elmo, Michael J.","Hoffman, Angela C.",
+60,10,Ithaca,"137 Crescent Place(Ithaca, 14850)",14850,"$210,000",June-05-2020,"Dunn, Thomas P.","Hudson, Elizabeth",Standard (arm's length)
+61,11,Ithaca,"1110 North Aurora Street(Ithaca, 14850)",14850,"$288,848",June-04-2020,"Doner, Robert J.","Fox, Francine Rivera",Standard (arm's length)
+62,12,Ithaca,"318 Winthrop Drive(Ithaca, 14850)",14850,"$358,000",June-03-2020,"DSouza, Victor L.","Tufan, Hale Ann",Standard (arm's length)
+63,13,Ithaca,"121 Coy Glen Road(Ithaca, 14850)",14850,"$158,500",June-03-2020,"Moylan, Patrick W.","Teng, Teng",Standard (arm's length)
+64,14,Ithaca,"110, 111 North Quarry Street(Ithaca, 14850)",14850,$1,June-02-2020,"Daly, David a/k/a David G.","Daly, David G., as, Trustee of the",Not a sale deed
+65,15,Ithaca,"1206 East State Street(Ithaca, 14850)",14850,"$334,500",June-02-2020,"John P. Latchaw III, Revocable Trust","Godden, Elisabete",Standard (arm's length)
+66,16,Ithaca,"616-618 Hector Street(Ithaca, 14850)",14850,"$298,000",June-02-2020,"Emmett, Bryan","Cosgrave, Anthony, III",Standard (arm's length)
+67,17,Ithaca,"118 East Spencer Street(Ithaca, 14850)",14850,"$200,000",June-01-2020,"Edwards, Donald E.","Sirianni, Katherine",Standard (arm's length)
+68,18,Ithaca,"46 Penny Lane(Ithaca, 14850)",14850,"$162,036",June-01-2020,"Rimmerman, Craig","Borch, Claire A.",Standard (arm's length)
+69,19,Ithaca,"228 Renwick Drive(Ithaca, 14850)",14850,"$329,000",June-01-2020,"The Krakow-Lang, Revocable Family Trust","Franklin, Speed H.",Standard (arm's length)
+70,20,Ithaca,"171 Whitetail Drive(Ithaca, 14850)",14850,"$300,000",June-01-2020,"Conners, John","Hao, Changtong",Standard (arm's length)
+71,21,Ithaca,"510 North Plain Street(Ithaca, 14850)",14850,"$370,000",June-01-2020,"Ben-Yaacov, Amiram","Talmadge, Heather",Standard (arm's length)
+72,22,Ithaca,"208 Hudson Street(Ithaca, 14850)",14850,$1,May-29-2020,"Donovan, Sarah A.","Colby, Philip J.",Sale between relatives
+73,23,Ithaca,"208 Hudson Street(Ithaca, 14850)",14850,$1,May-29-2020,"Donovan, Sarah A., Trustee","Donovan, Sarah A.","Buyer is seller, Not a sale deed, Sale between relatives"
+74,24,Ithaca,"209 Northview Rd W(Ithaca, 14850)",14850,$1,May-29-2020,"Ulrich, Leigh","Lasda, Brian J.",Buyer is seller
+75,25,Ithaca,"402 Adams Street(Ithaca, 14850)",14850,"$180,560",May-29-2020,"Dakpa, Thupten","Ithaca Neighborhood, Housing Services, Inc.",
+76,26,Ithaca,"Westhaven(Ithaca, 14850)",14850,"$25,000",May-20-2020,"Luft, Roy A., Executor, Estate of Maxine B. Luft","Olszewski, Michael F.",Not a sale deed
+77,27,Ithaca,"Hillcrest Drive & Williams Glen Rd.(Ithaca, 14850)",14850,$1,May-19-2020,"Stevenson, Sherry L.","Monroe, Kathi M.","Buyer is seller, Not a sale deed, Multiple SWIS, Sale between relatives"
+78,28,Ithaca,"648 Hudson Street(Ithaca, 14850)",14850,$1,May-18-2020,"648 Hudson Street, LLC","Fox, Keith","Buyer is seller, Sale between relatives"
+79,29,Ithaca,"119 Briarwood Drive(Ithaca, 14850)",14850,"$402,000",May-14-2020,Lucente Homes LLC,"Maisuradze, Gia",Standard (arm's length)
+80,30,Ithaca,"110 Utica Street(Ithaca, 14850)",14850,$1,May-13-2020,"Huddle, Dorothy M.","Huddle, Gayle L.","Buyer is seller, Sale between relatives"
+81,31,Ithaca,"1069 Ellis Hollow Road(Ithaca, 14850)",14850,"$72,000",May-08-2020,"Afzal, Omar","Allport, Hamilton F.",Not a sale deed
+82,32,Ithaca,"613 North Tioga Street(Ithaca, 14850)",14850,"$310,000",May-01-2020,"Coakley, Benjamin M.","Faris, Mark R.",Standard (arm's length)
+83,33,Ithaca,"140 Westhaven Road(Ithaca, 14850)",14850,"$269,989",April-30-2020,"Peluso, Joshua A.","Lambert, Keith",Standard (arm's length)
+84,34,Ithaca,"18 Lisa Lane(Ithaca, 14850)",14850,"$475,000",April-30-2020,"Markowitz, Tamara L.","Yuan, Ying",Standard (arm's length)
+85,35,Ithaca,"700-02 W. Buffalo Street(Ithaca, 14850)",14850,"$1,843,928",April-29-2020,"GreenStar Cooperative, Market, Inc.","Agora of Ithaca GS, LLC",
+86,36,Ithaca,"219 Eddy Street(Ithaca, 14850)",14850,"$880,000",April-29-2020,"219 Eddy, LLC","Nestopoulos, Matthew",Standard (arm's length)
+87,37,Ithaca,"104 Deerfield Place(Ithaca, 14850)",14850,"$280,800",April-29-2020,"Polikoff, Margo Lane","Lanners, Brandon",Standard (arm's length)
+88,38,Ithaca,"704-706 West Buffalo Street(Ithaca, 14850)",14850,"$900,000",April-29-2020,Bridges Development,"Agora of Ithaca 704, LLC",Related company sale
+89,39,Ithaca,"208 Forest Home Drive(Ithaca, 14850)",14850,"$415,000",April-27-2020,"McIntyre, Peter B.","Addleman-Frankel, Kate",Standard (arm's length)
+90,40,Ithaca,"108 Sears Street(Ithaca, 14850)",14850,"$260,000",April-27-2020,"Estate of Gianoula, Poulos","Klinkov, Ariana",Standard (arm's length)
+91,41,Ithaca,"320 W. Buffalo Street(Ithaca, 14850)",14850,"$290,000",April-24-2020,"Ithaca Neighborhood, Housing Services, Inc.",City of Ithaca,Governement sale
+92,42,Ithaca,"15 Cornell Street(Ithaca, 14850)",14850,"$257,500",April-24-2020,"Steinkraus Estate, Keith H.","Stevenson, Zachary A.",Not a sale deed
+93,43,Ithaca,"Hayts Road(Ithaca, 14850)",14850,$1,April-23-2020,"DeBell, John W.","DeBell, John W.","Buyer is seller, Multiple SWIS"
+94,44,Ithaca,"326 South Cayuga Street(Ithaca, 14850)",14850,$1,April-23-2020,"Phillips, Jane L.","Banner, Mitzi","Not a sale deed, Sale between relatives"
+95,45,Ithaca,"316 North Aurora Street(Ithaca, 14850)",14850,"$320,000",April-23-2020,"Mangan, James","Jetty, Robert H. III",Standard (arm's length)
+96,46,Ithaca,"320 Elmira Road(Ithaca, 14850)",14850,"$1,750,000",April-22-2020,Robert S. Miller Rev. Tru,Maguire Family Enterprise,Standard (arm's length)
+97,47,Ithaca,"319 North Geneva Street(Ithaca, 14850)",14850,"$350,000",April-22-2020,"Glass, Rabbi Scott L.","Hitchcock, Adam Peter",Standard (arm's length)
+98,48,Ithaca,"Rachel Carson Way(Ithaca, 14850)",14850,$1,April-21-2020,"Ecovillage At Ithaca, Inc",Town of Ithaca,Governement sale
+99,49,Ithaca,"326 South Cayuga Street(Ithaca, 14850)",14850,"$183,000",April-20-2020,"Banner, Mitzi P., Pillips, Douglas C.","Rader, Nancy",Standard (arm's length)
+100,0,Ithaca,"409 Auburn Street(Ithaca, 14850)",14850,$1,April-20-2020,"Robbins, Anne R.","Robbins, Anne R.","Buyer is seller, Sale between relatives"
+101,1,Ithaca,"205 Prospect Street(Ithaca, 14850)",14850,"$165,000",April-16-2020,"Mavros, John",205 Prospect Street LLC,Standard (arm's length)
+102,2,Ithaca,"701 West Court Street(Ithaca, 14850)",14850,$1,April-15-2020,"Lakeview Community, Resources Inc.","West End Heights Housing, Development Fund Corp",Related company sale
+103,3,Ithaca,"119 Burleigh Drive(Ithaca, 14850)",14850,"$471,000",April-15-2020,"Hyde, Christopher G.","Haller, Benjamin C.",Standard (arm's length)
+104,4,Ithaca,"314 Elmwood Avenue(Ithaca, 14850)",14850,$1,April-14-2020,"Lubin, Marley","Lubin, Marley",Buyer is seller
+105,5,Ithaca,"305 Linn Street(Ithaca, 14850)",14850,$1,April-14-2020,"Lewis, Jon R.","305 Linn Street, LLC","Related company sale, Not a sale deed"
+106,6,Ithaca,"408 West Clinton Street(Ithaca, 14850)",14850,"$249,000",April-14-2020,"Cheng, Wai-Yee","Murphy, Molly H.",Standard (arm's length)
+107,7,Ithaca,"128 Honness Lane(Ithaca, 14850)",14850,$1,April-13-2020,"Fix, Giora","Fix, Giora","Buyer is seller, Not a sale deed, Sale between relatives"
+108,8,Ithaca,"317 North Tioga Street(Ithaca, 14850)",14850,$1,April-13-2020,"Stevens, John, Hanrahan, 3d, John H.","317 North Tioga Street,, LLC","Related company sale, Not a sale deed"
+109,9,Ithaca,"0 Orchard Hill Road(Ithaca, 14850)",14850,"$65,000",April-10-2020,"Dietrich, Timothy P.","Varetsa, Aleksandr",Standard (arm's length)
+110,10,Ithaca,"9 Evergreen Lane(Ithaca, 14850)",14850,$1,April-06-2020,"Smith, Kelly A.","Govang, Patrick J.","Buyer is seller, Not a sale deed, Sale between relatives"
+111,11,Ithaca,"111 Fidler Road(Ithaca, 14850)",14850,"$170,000",April-06-2020,"Feitzinger, Christopher","Cordova, Melanie Joy",Standard (arm's length)
+112,12,Ithaca,"103 Harvard Place(Ithaca, 14850)",14850,"$575,000",April-02-2020,"Hallock, Kevin F.","Huang, Peter Chuyan",Standard (arm's length)
+113,13,Ithaca,"315 Olde Gorge Road(Ithaca, 14850)",14850,"$625,000",April-01-2020,"Dickens, Brian","Staiger, Brian",Standard (arm's length)
+114,14,Ithaca,"114 Madison Street(Ithaca, 14850)",14850,"$269,000",March-31-2020,"Randall, Alexis","Vanhattum, Aelxa M.",Standard (arm's length)
+115,15,Ithaca,"105 Honness Lane(Ithaca, 14850)",14850,"$197,000",March-30-2020,"Baptist, Edward","Jalil, MD Abdul",Standard (arm's length)
+116,16,Ithaca,"814 Meadow Street South(Ithaca, 14850)",14850,"$154,670",March-27-2020,"Oasis Fellowship, Inc.","Larkin, Patricia M.",
+117,17,Ithaca,"324 Hook Place(Ithaca, 14850)",14850,"$240,000",March-26-2020,"Schuldt, Jonathon P.","Bogdanovitch, Sarah",Standard (arm's length)
+118,18,Ithaca,"662 Coddington Road(Ithaca, 14850)",14850,"$36,000",March-24-2020,"Lichtmann, Kurt","Levine, Eric S.",Standard (arm's length)
+119,19,Ithaca,"674 Coddington Road(Ithaca, 14850)",14850,"$11,000",March-24-2020,"Levine, Eric S.","Lichtmann, Kurt",Standard (arm's length)
+120,20,Ithaca,"104 Pineview Terrace(Ithaca, 14850)",14850,"$300,000",March-23-2020,"Drummond, Maya Devi","Henne-Barrows, Ryan J.",Standard (arm's length)
+121,21,Ithaca,"105 Woodcrest Terrace(Ithaca, 14850)",14850,"$325,000",March-20-2020,"Winters, Michael G.","Roberts, Ronald Kent, Ariya &",Standard (arm's length)
+122,22,Ithaca,"445 North Aurora Street(Ithaca, 14850)",14850,"$450,000",March-19-2020,"Smith, Donald F.","Lu, Vivian",Standard (arm's length)
+123,23,Ithaca,"130 Hillcrest Drive(Ithaca, 14850)",14850,"$295,500",March-19-2020,"Wong, Jan R.","Peck, Margaret",Standard (arm's length)
+124,24,Ithaca,"390 Stone Quarry Road(Ithaca, 14850)",14850,"$160,000",March-18-2020,"Eshelman, Richard","Zakos, Susan Ahrayna",Standard (arm's length)
+125,25,Ithaca,"13 Penny Lane(Ithaca, 14850)",14850,"$159,000",March-16-2020,"Brooks, Andrew H.","Tang, Wenqin",Standard (arm's length)
+126,26,Ithaca,"513 South Cayuga Street(Ithaca, 14850)",14850,$1,March-12-2020,"Kingra, Michael R.",Four Smiles LLC,Buyer is seller
+127,27,Ithaca,"101 Coy Glen Road(Ithaca, 14850)",14850,"$101,000",March-11-2020,Estate of David P. Mankin,"Post, Wiliam",Standard (arm's length)
+128,28,Ithaca,"401 State Street East(Ithaca, 14850)",14850,"$55,500",March-11-2020,"GPA Management, LLC",City of Ithaca,Governement sale
+129,29,Ithaca,"335-337 Center St(Ithaca, 14850)",14850,"$230,000",March-05-2020,"Wrublewski, Brian","Weiss, Clea",Standard (arm's length)
+130,30,Ithaca,"240 Wildflower Dr, No 1(Ithaca, 14850)",14850,,March-05-2020,"Brentlinger, Howard H","Brentlinger, III, Trustee, Howard R",Sale between relatives
+131,31,Ithaca,"312 Auburn St(Ithaca, 14850)",14850,"$325,000",March-05-2020,"Buechel, Aaron M","Miga, Ryan",Standard (arm's length)
+132,32,Ithaca,"148 Coddington Rd(Ithaca, 14850)",14850,"$300,000",March-05-2020,"Stepanok, Alex G","Schreck, Andrew",Standard (arm's length)
+133,33,Ithaca,"384 Teton Court(Ithaca, 14850)",14850,"$189,500",March-04-2020,"Moore, Jami D.","Specter, Susan",Standard (arm's length)
+134,34,Ithaca,"139 Northview Rd(Ithaca, 14850)",14850,"$235,000",March-03-2020,"Falvey, Brian F",Krakow-Lang Rev Family Tr,Standard (arm's length)
+135,35,Ithaca,"220 Wildflower Drive #3(Ithaca, 14850)",14850,,March-02-2020,"Mazza, Jean A","Tarr, Henry C",Sale between relatives
+136,36,Ithaca,"161 Snyder Hill Rd(Ithaca, 14850)",14850,,February-26-2020,"Bailey, Lee Soo","Hayes, Michael Lee","Buyer is seller, Sale between relatives"
+137,37,Ithaca,"207 Eastwood Ave(Ithaca, 14850)",14850,"$252,000",February-25-2020,"McNeil, Richard J, Estate of","Karanen, Kathleen",Standard (arm's length)
+138,38,Ithaca,"305-09 Hector St(Ithaca, 14850)",14850,"$180,000",February-24-2020,"Decker, Tracy","Stargazer Properties, LLC",Standard (arm's length)
+139,39,Ithaca,"311-313 Hook Pl(Ithaca, None)",None,,February-24-2020,"Navarro, Florence B","Brown, Denise",Sale between relatives
+140,40,Dryden,"28 Crystal Dr(Dryden, 13053)",13053,"$159,000",February-24-2020,"Ithaca Neighborhood, Housing Services, Inc","Tsipouroglou, Michael C",Interest conveyed
+141,41,Ithaca,"1220 Trumansburg Rd(Ithaca, 14850)",14850,"$259,000",February-19-2020,"Bell, Gary A","Fessenden, Ryan",Standard (arm's length)
+142,42,Ithaca,"123 Roberts Place(Ithaca, 14850)",14850,,February-18-2020,"Abers, Geoffrey A","Abers, Geoffrey A",Sale between relatives
+143,43,Ithaca,"137 Westview Ln(Ithaca, 14850)",14850,,February-18-2020,"Joseph, Laura J","Joseph, Laura Jean, Trustee of the Laura J","Buyer is seller, Not a sale deed"
+144,44,Ithaca,"110-12 Cobb St(Ithaca, 14850)",14850,"$470,000",February-18-2020,"Calvo, Joseph M","McKee, Douglas",Standard (arm's length)
+145,45,Ithaca,"307 Coddington Rd(Ithaca, 14850)",14850,"$90,500",February-14-2020,"Kapur, David E",A Brown Properties LLC,"Not a sale deed, Governement sale"
+146,46,Ithaca,"40 Penny Ln(Ithaca, 14850)",14850,,February-14-2020,"Goetz, Kent","Ryan, Patti A","Buyer is seller, Not a sale deed, Sale between relatives"
+147,47,Ithaca,"Winston Dr/ Winston Ct(Ithaca, 14850)",14850,,February-14-2020,Town of Ithaca,Winston Square Apartments,Not a sale deed
+148,48,Ithaca,"209 Westview Ln(Ithaca, 14850)",14850,"$139,500",February-14-2020,"Gleason, Mary Ellen, Estate","Gleason, Kathryn","Buyer is seller, Not a sale deed"
+149,49,Ithaca,"Westhaven(Ithaca, 14850)",14850,,February-13-2020,"Luft, Roy A, Admin, Estate of Julian D Luft","Luft, Roy A, Executor, Estate of Maxine B Luft","Not a sale deed, Sale between relatives"
+150,0,Ithaca,"205 Wyckoff Ave(Ithaca, 14850)",14850,"$525,000",February-12-2020,"Araneo, Francis P","Ehrich, Patricia A",Standard (arm's length)
+151,1,Ithaca,"116 Clover Lane(Ithaca, 14850)",14850,"$285,000",February-10-2020,"Jacobstein, Adam Thrall","Doyle, Emily N",Standard (arm's length)
+152,2,Ithaca,"415 Titus Ave S(Ithaca, 14850)",14850,"$140,000",February-10-2020,"Forcier, Matthew W","Guttridge, John",Standard (arm's length)
+153,3,Ithaca,"711 Hancock St(Ithaca, 14850)",14850,"$133,615",February-08-2020,"Path, Vannak M","Ithaca Neighborhood, Housing Services, Inc",Governement sale
+154,4,Ithaca,"1027 Ellis Hollow Rd(Ithaca, 14850)",14850,"$192,000",February-07-2020,"Gutor, Olena",Sunflower Real Estate Tom,"Related company sale, Not a sale deed"
+155,5,Ithaca,"1476 Slaterville Road(Ithaca, 14850)",14850,$1,February-06-2020,"Yon, Kennedy","Hem, Vy","Not a sale deed, Sale between relatives"
+156,6,Ithaca,"14 Woodcrest Ave(Ithaca, 14850)",14850,"$315,000",February-05-2020,"Kilgore, Benjamin M","Zeserson, Kenneth J",Standard (arm's length)
+157,7,Ithaca,"122/117 Columbia St/ James St(Ithaca, 14850)",14850,,February-05-2020,"Bangerter, Kenneth","Bangerter, Kenneth","Buyer is seller, Not a sale deed, Sale between relatives"
+158,8,Ithaca,"114 Cascadilla Park Rd(Ithaca, 14850)",14850,"$334,000",February-05-2020,"Cryztal, Pia, Estate of","Diamessis, Peter J",Standard (arm's length)
+159,9,Ithaca,"120 Columbia St(Ithaca, 14850)",14850,,February-04-2020,"Bangerter, Kenneth","Ortiz, Maria E","Not a sale deed, Sale between relatives"
+160,10,Ithaca,"220 Tareyton Dr(Ithaca, 14850)",14850,"$490,000",February-04-2020,Lucente Homes LLC,"Shire, Douglas B",Standard (arm's length)
+161,11,Ithaca,"305 Falls St E, #1(Ithaca, 14850)",14850,"$146,470",February-03-2020,"Hoffmann, Sarah B","Sullivan, Laura B",Interest conveyed
+162,12,Ithaca,"154 Indian Creek Rd(Ithaca, 14850)",14850,"$120,500",February-03-2020,"Gould, John G","Kingsley, David S",Standard (arm's length)
+163,13,Ithaca,"607 Cayuga St N(Ithaca, 14850)",14850,"$422,000",February-03-2020,"Cascadilla Oasis, LLC","Jeffrey J and Maureen M W, Living Trust",Standard (arm's length)
+164,14,Ithaca,"2 Sanctuary Dr(Ithaca, 14850)",14850,"$442,000",January-31-2020,"Fire Rocket, LLC","Yeung, Cho Fai",Standard (arm's length)
+165,15,Ithaca,"306 Utica St(Ithaca, 14850)",14850,"$432,500",January-31-2020,"D Briere & J Ange, Rev Liv Trust","Arenholz, Elke",Standard (arm's length)
+166,16,Ithaca,"22 Saunders Rd(Ithaca, 14850)",14850,"$286,000",January-31-2020,"Petrillose, Christopher R","Gras, Jr, James K",Standard (arm's length)
+167,17,Ithaca,"11 Muriel St(Ithaca, 14850)",14850,$1,January-28-2020,"Malaspina, Executor, Teresa F","Fox, Rosanna","Not a sale deed, Sale between relatives"
+168,18,Ithaca,"101 Hudson St(Ithaca, 14850)",14850,"$250,000",January-27-2020,"McGill, Todd M","Cope, Edward A",
+169,19,Ithaca,"416 Hudson St(Ithaca, 14850)",14850,"$350,000",January-27-2020,"McGill, Todd",Luimneach LLC,
+170,20,Ithaca,"321 Hook Pl(Ithaca, 14850)",14850,"$236,000",January-27-2020,"Martell, Ralph G","Martell, Josephine",Sale between relatives
+171,21,Ithaca,"620 Elm St(Ithaca, 14850)",14850,$1,January-27-2020,"Terwilliger, Trustee, Susan B","Terwilliger, Susan B","Buyer is seller, Not a sale deed"
+172,22,Ithaca,"625 Utica St(Ithaca, 14850)",14850,"$240,000",January-24-2020,"Husted, Carole J","Tsokyi, Tenzin",Standard (arm's length)
+173,23,Ithaca,"416 Madison St(Ithaca, 14850)",14850,"$205,000",January-24-2020,"Tsokyi, Tenzin","Cerro, Joanna E",Standard (arm's length)
+174,24,Ithaca,"126 Chestnut St(Ithaca, 14850)",14850,"$169,000",January-23-2020,"Baier, Kristina Marie","Trichon, Lauren",Standard (arm's length)
+175,25,Ithaca,"205 Falls St E(Ithaca, 14850)",14850,"$295,000",January-21-2020,"Kunk-Czaplicki, Brian M","Mann, Kathryn",Standard (arm's length)
+176,26,Ithaca,"216 Texas Lane Ext(Ithaca, 14850)",14850,"$340,000",January-21-2020,"Gore, Michael A","Ince, Guven",Standard (arm's length)
+177,27,Ithaca,"137 Northview Rd(Ithaca, 14850)",14850,$1,January-21-2020,"Hamilton, Martha","Hamilton, Martha J, Trustee","Buyer is seller, Not a sale deed, Sale between relatives"
+178,28,Ithaca,"207 Center St(Ithaca, 14850)",14850,"$235,000",January-17-2020,"Whittaker, Sandra Lee","Green, Alice",Standard (arm's length)
+179,29,Ithaca,"118 Cascadilla Ave(Ithaca, 14850)",14850,$1,January-16-2020,"Norkus, Lauren A","Trichon, Eric","Buyer is seller, Not a sale deed, Sale between relatives"
+180,30,Ithaca,"125 Hawthorne Pl(Ithaca, 14850)",14850,,January-15-2020,"Carnal, Benjamin A","Carnal, Christine A","Buyer is seller, Not a sale deed, Sale between relatives"
+181,31,Ithaca,"114 & 122 Birdseye View Dr(Ithaca, 14850)",14850,$1,January-15-2020,"S Roberts, LLC",S Roberts Birdseye LLC,"Related company sale, Not a sale deed"
+182,32,Ithaca,"644 & 211 Hudson St & Columbia St(Ithaca, 14850)",14850,$1,January-15-2020,"Suzanne Roberts Trust, dated June 28, 2002",S Roberts Columbia Hudson,"Related company sale, Not a sale deed"
+183,33,Ithaca,"411 Auburn St(Ithaca, 14850)",14850,"$282,000",January-14-2020,"Cecere, Laura E","Robbins, Anne R",Standard (arm's length)
+184,34,Ithaca,"Orchard Hill Rd(Ithaca, 14850)",14850,$1,January-14-2020,"Dietrich, Timothy P","Louis, Julia",Not a sale deed
+185,35,Ithaca,"0 Orchard Hill Rd(Ithaca, 14850)",14850,"$50,000",January-14-2020,"Dietrich, Timothy P","Armstrong, Richard J",Standard (arm's length)
+186,36,Ithaca,"510 Tioga St N(Ithaca, 14850)",14850,"$416,000",January-13-2020,"Treat, Bradley Nikalaus","Reynolds, Timothy J",Standard (arm's length)
+187,37,Ithaca,"515 Dryden Rd(Ithaca, 14850)",14850,"$352,500",January-10-2020,"Bai, Huajun","Xu, Yilai",Standard (arm's length)
+188,38,Ithaca,"305-07 Ithaca Rd(Ithaca, 14850)",14850,"$285,000",January-10-2020,"Prendergast, Norma, Estate of","Howlett, Zachary M","Not a sale deed, Sale between relatives"
+189,39,Ithaca,"310 Court St E(Ithaca, 14850)",14850,"$340,000",January-09-2020,"DLH Properties of, Tompkins County, LLC","EBB Properties, LLC",Standard (arm's length)
+190,40,Ithaca,"570 Spencer Rd(Ithaca, 14850)",14850,$1,January-06-2020,"Conroy, Vanessa","Conroy, Vanessa","Buyer is seller, Not a sale deed, Sale between relatives"
+191,41,Ithaca,"701 Aurora St N(Ithaca, 14850)",14850,$1,January-06-2020,"Weber, Timothy","Weber, Timothy","Buyer is seller, Related company sale, Not a sale deed"
+192,42,Ithaca,"513 Cayuga St S(Ithaca, 14850)",14850,"$295,000",January-03-2020,"Doolittle, Chad D","Kingra, Michael R",Standard (arm's length)
+193,43,Ithaca,"346 Coddington Rd(Ithaca, 14850)",14850,"$150,000",January-03-2020,"Stein, Jessica Elizabeth","Iacovelli, Orlando",
+194,44,Danby,"91 Town Line Rd(Danby, 14850)",14850,$1,January-03-2020,"Rowell, Michael","Ithaca Honey Works, LLC","Related company sale, Not a sale deed"
+195,45,Ithaca,"1365 Mecklenburg Rd(Ithaca, 14850)",14850,"$77,000",January-03-2020,"Federal Home Loan, Mortgage Corporation","Hanford, John",Governement sale
+196,46,Ithaca,"139 Whitetail Dr(Ithaca, 14850)",14850,"$302,500",January-03-2020,"Honingbaum, Lawrence","Pasto, Timothy",Standard (arm's length)
+197,47,Ithaca,"123 Snyder Hill Rd(Ithaca, 14850)",14850,"$276,600",January-03-2020,"Wu, Lauren Y","Gordon, Steven D",Standard (arm's length)
+198,48,Ithaca,"126 Washington St(Ithaca, 14850)",14850,"$205,000",December-31-2019,"Wolff, John U","Oshoe, Tseten Dolkar",Standard (arm's length)
+199,49,Ithaca,"891 & 0 Taughannock Blvd(Ithaca, 14850)",14850,"$439,000",December-31-2019,"Thomas, Estate of, Carter Danforth","Kraak, Daniel P",Standard (arm's length)
+200,0,Ithaca,"Tioga St N & Sears St(Ithaca, 14850)",14850,"$1,800,000",December-31-2019,"Baker, Robert W Jr",County of Tompkins,Governement sale
+201,1,Ithaca,"Tioga St N & Sears St(Ithaca, 14850)",14850,$1,December-31-2019,"Dental Properties, Company, LLC","Baker, Robert W Jr",Related company sale
+202,2,Ithaca,"363-365 Elmira Rd(Ithaca, 14850)",14850,"$704,224",December-31-2019,"Lama, Robert A","Pirko, David F",Standard (arm's length)
+203,3,Ithaca,"227 Albany St S(Ithaca, 14850)",14850,"$135,000",December-30-2019,"Wicks, Scott B","Purplefish Properties, LL",
+204,4,Ithaca,"236 Floral Ave(Ithaca, 14850)",14850,"$187,300",December-30-2019,"Baum (formerly Fort), Marcia J","Hill, Daryl E",Standard (arm's length)
+205,5,Ithaca,"103 Spruce Way(Ithaca, 14850)",14850,"$230,000",December-30-2019,"Lorenzana, Carlos","Livesay, Jennifer E",Standard (arm's length)
+206,6,Ithaca,"1030 East Shore Dr(Ithaca, 14850)",14850,$1,December-30-2019,Richard B Thaler Rev Trus,Sonia Ratajski Thaler Rev,"Not a sale deed, Sale between relatives"
+207,7,Ithaca,"217 Cayuga St S(Ithaca, 14850)",14850,"$9,529,700",December-30-2019,"The Lofts on Six Mile, Creek, LLC","HH Cayuga Lofts, Property LLC",Standard (arm's length)
+208,8,Ithaca,"218-20 Ridgedale Rd(Ithaca, 14850)",14850,"$250,000",December-30-2019,"Wallace, Mary Ellen","Fink, Gail E",Standard (arm's length)
+209,9,Ithaca,"815 Aurora St S(Ithaca, 14850)",14850,,December-28-2019,Skyline Investment Proper,"Fish, Harold A",Not a sale deed
+210,10,Ithaca,"415 Linn St(Ithaca, 14850)",14850,$1,December-27-2019,"Lenhart, Julie Anne","Lenhart, Julie Anne, as Trustee","Buyer is seller, Not a sale deed"
+211,11,Ithaca,"210 Eldridge Circle(Ithaca, 14850)",14850,$1,December-27-2019,"Bella Faccia, Construction, LLC","Warren, Bryan",Not a sale deed
+212,12,Ithaca,"231 Wildflower Dr, #4(Ithaca, 14850)",14850,"$205,000",December-27-2019,"Lundquist, Cathy L","Crowley, Mark T",Standard (arm's length)
+213,13,Ithaca,"113 Osmun Pl(Ithaca, 14850)",14850,$1,December-26-2019,"Williams, Mary J","Williams, Mary J","Buyer is seller, Not a sale deed, Sale between relatives"
+214,14,Ithaca,"306 Stewart Ave(Ithaca, 14850)",14850,$1,December-26-2019,"Williams, Mary J","Williams, Mary J","Buyer is seller, Not a sale deed, Sale between relatives"
+215,15,Ithaca,"308 Ithaca Rd(Ithaca, None)",None,"$310,000",December-23-2019,"Schaeffer, Julie A","Cook, Michael D",Standard (arm's length)
+216,16,Ithaca,"2 Evergreen Ln(Ithaca, 14850)",14850,"$349,000",December-23-2019,"Kobas, George V","Ray, Gregory Paul",Standard (arm's length)
+217,17,Ithaca,"250 Sapsucker Woods Rd(Ithaca, 14850)",14850,"$232,500",December-23-2019,"Estate of, Rocco P Lucente",Cornell University,Not a sale deed
+218,18,Ithaca,"570 Spencer Rd(Ithaca, 14850)",14850,"$86,000",December-23-2019,"Palmer, Joyce A","Conroy, Vanessa",Standard (arm's length)
+219,19,Ithaca,"230 Wait Ave(Ithaca, None)",None,"$375,000",December-23-2019,"Elmer, Frank Z & Maelissa Watson","DeLorenzo, Alexandra H & Kenneth (5",Standard (arm's length)
+220,20,Ithaca,"109 Valley View Rd(Ithaca, None)",None,$1,December-20-2019,"Holland, E Ann","Holland, Howard","Buyer is seller, Not a sale deed, Sale between relatives"
+221,21,Ithaca,"719-725 Meadow St S(Ithaca, 14850)",14850,"$3,771,600",December-20-2019,"G&I IX Empire Tops Plaza, Ithaca LLC","Lone Castle Ithaca, LLC",Standard (arm's length)
+222,22,Ithaca,"712 Buffalo St E(Ithaca, None)",None,$1,December-20-2019,"Araneo, Francis P","East Buffalo Street, LLC",Related company sale
+223,23,Ithaca,"25 Saunders Rd(Ithaca, None)",None,"$425,000",December-20-2019,"Bramhandkar, Jay D","He, Suhao",Standard (arm's length)
+224,24,Ithaca,"119 Linden Ave(Ithaca, None)",None,$1,December-20-2019,281 Development Corp,"Linden Housing Partners,",Related company sale
+225,25,Ithaca,"131-135 Green St E(Ithaca, 14850)",14850,,December-20-2019,City of Ithaca,HH Cayuga Place Property,Not a sale deed
+226,26,Ithaca,"314 Ithaca Rd(Ithaca, None)",None,"$387,185",December-19-2019,"Burch, Laura & Alexandra",Mia Korf Family Living Tr,Standard (arm's length)
+227,27,Ithaca,"176 Troy Rd(Ithaca, None)",None,"$408,000",December-19-2019,"Heritage Park Townhouses,","Dong, Sun Bin",Standard (arm's length)
+228,28,Ithaca,"113 Auburn Street(Ithaca, 14850)",14850,$1,December-19-2019,"Jacobson, Wendy","Wendy S. Jacobson, Revocable Intervivos","Buyer is seller, Sale between relatives"
+229,29,Ithaca,"209 Pleasant St(Ithaca, None)",None,"$215,000",December-18-2019,"Papapietro, Patti J Estate of","Salino, Craig M",Standard (arm's length)
+230,30,Ithaca,"230 Culver Rd(Ithaca, None)",None,"$87,888",December-18-2019,"Finger Lakes Land Trust,",Town of Ithaca,Governement sale
+231,31,Ithaca,"130 Woolf Ln(Ithaca, None)",None,"$326,500",December-18-2019,"OBrien, Brendan","Fisher, Danica",Standard (arm's length)
+232,32,Ithaca,"402 Wood St(Ithaca, None)",None,$1,December-17-2019,"Royal, Courtney",Perdita Flats Development,"Related company sale, Not a sale deed"
+233,33,Ithaca,"128 Glenside Rd(Ithaca, None)",None,"$275,000",December-17-2019,"Wetmore, Joseph","Hahnes, Lindsay M",Standard (arm's length)
+234,34,Ithaca,"230 Hayts Rd(Ithaca, None)",None,"$180,000",December-17-2019,"Hahnes, Lindsay M","Piha, Elie M",Standard (arm's length)
+235,35,Ithaca,"309 Court St E(Ithaca, None)",None,"$860,000",December-13-2019,"AKS Apartments, LLC","Macey, Joshua",Standard (arm's length)
+236,36,Ithaca,"Hector St(Ithaca, None)",None,"$40,000",December-13-2019,"Hansen, Wilhelm G","Bluestone, Brenda C",Standard (arm's length)
+237,37,Ithaca,"117 Hawthorne Pl(Ithaca, None)",None,$1,December-13-2019,"Hastings, IV, William V","FLXabode, LLC","Related company sale, Not a sale deed"
+238,38,Ithaca,"711 Mitchell St(Ithaca, None)",None,$1,December-13-2019,"Diesing, Molly","Diesing, Molly",Buyer is seller
+239,39,Lansing,"2250 N Triphammer Rd Unit T4B(Lansing, None)",None,"$165,000",December-13-2019,"Ng, David Tat Chee",First Ithaca Chinese Chri,Interest conveyed
+240,40,Ithaca,"430-444 State St W(Ithaca, None)",None,"$2,075,000",December-12-2019,"Four Thirty, LLC","Arnot Ithaca 2, LLC",Standard (arm's length)
+241,41,Ithaca,"108 Walnut St(Ithaca, None)",None,"$435,000",December-12-2019,"Estate of, Kristy L Richards","McMahon, Peter Leonard",Standard (arm's length)
+242,42,Ithaca,"236 Valley Rd(Ithaca, None)",None,$1,December-12-2019,"Lathwell, Rhonda (as Executor)","Lathwell, Rhonda","Buyer is seller, Not a sale deed"
+243,43,Ithaca,"212 Tudor Rd(Ithaca, None)",None,"$215,000",December-11-2019,"Rubin, Caren S","Williams, David",
+244,44,Ithaca,"171 Calkins Rd(Ithaca, 14850)",14850,"$126,940",December-11-2019,"Troy, Michael John","Brotherton, Joel Crispin","Buyer is seller, Not a sale deed, Sale between relatives"
+245,45,Ithaca,"512-514 Green St W(Ithaca, 14850)",14850,$1,December-09-2019,"Ciaschi, Carmen G","Ciaschi, Carmen G & Lisa","Buyer is seller, Not a sale deed, Sale between relatives"
+246,46,Ithaca,"216 Valley Rd(Ithaca, None)",None,$1,December-09-2019,"Zumoff, Joel","Zumoff, Joel","Buyer is seller, Not a sale deed"
+247,47,Ithaca,"514-516 Albany St S(Ithaca, None)",None,"$278,000",December-09-2019,"Campagnolo, Mark","Petrisin, Grace",Standard (arm's length)
+248,48,Ithaca,"211 Hayts Rd(Ithaca, None)",None,"$254,000",December-04-2019,"Thayer, Douglas J","Scholl, Mark",Standard (arm's length)
+249,49,Ithaca,"133 Fayette St(Ithaca, None)",None,$1,December-02-2019,"Restrepo, Lauren F Hansen","Restrepo, Lauren F Hansen","Buyer is seller, Not a sale deed"
+250,0,Ithaca,"208 Hancock St(Ithaca, None)",None,"$148,625",November-27-2019,"Choi, Hyong Woo","Cotraccia, Erica M","Not a sale deed, Interest conveyed"
+251,1,Ithaca,"514 Utica St(Ithaca, None)",None,"$215,000",November-27-2019,"Walder, Brian E","Ranger-Moore, James R",Standard (arm's length)
+252,2,Ithaca,"222 Ridgedale Rd(Ithaca, None)",None,"$249,500",November-27-2019,"Rowley, Gudrun","Noel, Elizabeth",Standard (arm's length)
+253,3,Ithaca,"128 Burleigh Dr(Ithaca, None)",None,"$425,000",November-27-2019,"Poduska, Anne M","Zhang, Zhiling",Standard (arm's length)
+254,4,Ithaca,"122 Christopher Circle(Ithaca, None)",None,"$215,000",November-26-2019,"Carman, Jeffrey M","Schweiger, Kimberly",Standard (arm's length)
+255,5,Ithaca,"508 West Green Street(Ithaca, 14850)",14850,"$500,000",November-25-2019,"Gammpm, Seam","508 Green, LLC",Standard (arm's length)
+256,6,Ithaca,"105 Crescent Pl(Ithaca, None)",None,"$270,000",November-25-2019,"Cohn, Elisha","Bowen, Jeffrey M",Standard (arm's length)
+257,7,Ithaca,"395 Teton Court(Ithaca, 14850)",14850,"$190,000",November-22-2019,"Karakantas, Demitra E","Speredowich, Judith M",Standard (arm's length)
+258,8,Ithaca,"272 Hayts Rd(Ithaca, None)",None,"$305,280",November-22-2019,"Blizzard, Jocelyn","Khammee, Wichittra",Standard (arm's length)
+259,9,Ithaca,"140 Crescent Place(Ithaca, 14850)",14850,"$210,000",November-22-2019,"Norman, Phyllis R","Thuja, Matthew P",Standard (arm's length)
+260,10,Ithaca,"117 Briarwood Drive(Ithaca, 14850)",14850,"$402,000",November-22-2019,Lucenter Homes LLC,"Zerpa, Victor A",Standard (arm's length)
+261,11,Ithaca,"125-127 Quarry St N(Ithaca, None)",None,$1,November-21-2019,"Araneo, Francis P","Red Brick Quarry, LLC","Buyer is seller, Related company sale"
+262,12,Ithaca,"526 Spencer Rd(Ithaca, None)",None,$1,November-21-2019,"Smith, Kenneth M","Smith, Kenneth M","Buyer is seller, Not a sale deed, Sale between relatives"
+263,13,Ithaca,"417 Mitchell Street(Ithaca, 14850)",14850,"$52,698",November-20-2019,"Vesci, Marc A","Vesci, Marc A","Buyer is seller, Not a sale deed, Sale between relatives"
+264,14,Ithaca,"510 N Tioga St(Ithaca, 14850)",14850,$1,November-20-2019,"Klotz, Jan D.","Klotz, Cynthia L","Not a sale deed, Sale between relatives"
+265,15,Ithaca,"612 Coddington Road(Ithaca, 14850)",14850,$1,November-20-2019,"Klotz, Jan D","Klotz, Cynthia L","Not a sale deed, Sale between relatives"
+266,16,Ithaca,"215-17 Center Street(Ithaca, 14850)",14850,$1,November-20-2019,"Klotz, Jan D","Klotz, Cynthia L","Not a sale deed, Sale between relatives"
+267,17,Ithaca,"811 N Aurora Street(Ithaca, 14850)",14850,"$219,750",November-19-2019,"Morgan, Sharon L","DiCostanzo, Dana M",Standard (arm's length)
+268,18,Ithaca,"130 Ridgecrest Rd(Ithaca, None)",None,$1,November-19-2019,"Sawyer, Zelaway R Estate","Mitstifer, Lisa D","Not a sale deed, Sale between relatives"
+269,19,Ithaca,"211 Hancock St(Ithaca, None)",None,"$385,000",November-18-2019,"Wells, Michael S","Burke, Katherine L",Related company sale
+270,20,Ithaca,"511 Hector St(Ithaca, None)",None,"$158,000",November-15-2019,"Krupas, Rose M","Schmitt-Miller, Barbara",Standard (arm's length)
+271,21,Ithaca,"209 Elm St(Ithaca, None)",None,"$1,340,000",November-15-2019,"INHS, Inc",Cayuga Flate Housing Deve,Related company sale
+272,22,Ithaca,"416 Elmira Road(Ithaca, 14850)",14850,"$515,000",November-14-2019,"KSWKL Holdings 416, LLC","Char Char Holdings, LLC",Standard (arm's length)
+273,23,Ithaca,"112 Hudson St(Ithaca, None)",None,"$380,000",November-13-2019,"Weinberg, Neil","Cope, Edward A",Standard (arm's length)
+274,24,Ithaca,"315 Taylor Pl(Ithaca, None)",None,$1,November-13-2019,"Salmon, Peter Morgan","Basran, Parminder S",Not a sale deed
+275,25,Ithaca,"21 Cornell St(Ithaca, None)",None,"$275,000",November-08-2019,"OBrien, Kevin","Garcia, Cristina De Miguel",Standard (arm's length)
+276,26,Ithaca,"302 Woodgate Ln(Ithaca, None)",None,"$169,791",November-06-2019,"Hull, Craig","Mendez, April",Standard (arm's length)
+277,27,Ithaca,"206 Floral Ave(Ithaca, None)",None,"$45,000",November-06-2019,"Ottoson, Graham","Deyhim, Alexander K",Standard (arm's length)
+278,28,Ithaca,"21 Renwick Heights Rd(Ithaca, None)",None,$1,November-05-2019,"Eckenrode, John",John Eckenrode Living Tru,Buyer is seller
+279,29,Ithaca,"1027 Elmira Rd(Ithaca, None)",None,"$300,000",November-04-2019,"Overbaugh, Thomas G","EDPO, LLC","Standard (arm's length), Multiple SWIS"
+280,30,Ithaca,"302 Eastwood Ave(Ithaca, None)",None,"$230,000",November-04-2019,"Hampson, Margaret C","Hutchison, Steven",Standard (arm's length)
+281,31,Ithaca,"1B Vista Ln(Ithaca, None)",None,"$186,000",October-31-2019,"Raymond, Shari T","Moss, Caitlin",Interest conveyed
+282,32,Ithaca,"706 Buffalo St E(Ithaca, None)",None,"$649,000",October-30-2019,"Stumpe, Gerd","Papachryssanthou, Peter",Standard (arm's length)
+283,33,Ithaca,"104 Pinewood Place(Ithaca, None)",None,"$190,000",October-30-2019,"Ho, Shih L","Ho, Erica",Sale between relatives
+284,34,Ithaca,"128 Woolf Ln(Ithaca, None)",None,"$320,000",October-29-2019,"Hiland, Seth T","Miller, Anthony",Standard (arm's length)
+285,35,Ithaca,"1045 Taughannock Blvd(Ithaca, None)",None,"$880,000",October-29-2019,"The Dudley Group, LLC","Tate, Geoff, Co-Trustee",Standard (arm's length)
+286,36,Ithaca,"216 Enfield Falls Rd(Ithaca, None)",None,,October-28-2019,"Chivers, Stephanie L","Wells, Carolyn E",
+287,37,Ithaca,"216 Enfield Falls Rd(Ithaca, None)",None,"$230,000",October-28-2019,"Chivers, Stephanie L","Brumsted, William T",Standard (arm's length)
+288,38,Ithaca,"139-57 Chestnut St(Ithaca, None)",None,"$3,180,000",October-28-2019,"Rabco Chestnut Hill, LLC","Cayuga Gardens Partners,",
+289,39,Ithaca,"220 Coddington Rd(Ithaca, None)",None,$1,October-25-2019,"Staniszewska, Melinda Jane","Staniszewska, Melinda Jane",Buyer is seller
+290,40,Ithaca,"318 Aurora St N(Ithaca, None)",None,"$400,000",October-25-2019,"Rachlin, Isabel",Tompkins Alternatives Cou,Standard (arm's length)
+291,41,Ithaca,"211 & 219 Cliff St(Ithaca, None)",None,"$390,000",October-24-2019,"L&J West Properties, LLC",The Rancich Family Ltd Pa,Standard (arm's length)
+292,42,Ithaca,"108 Eastern Heights Dr(Ithaca, None)",None,$1,October-24-2019,"Kaplan, Francine L.",Francine Kaplan Irrev Tru,"Buyer is seller, Sale between relatives"
+293,43,Ithaca,"East Shore Dr(Ithaca, None)",None,"$2,100",October-24-2019,"Southworth, Richard M","Kwortnik, Jr, Robert J",Not a sale deed
+294,44,Ithaca,"Lake St(Ithaca, None)",None,"$25,000",October-24-2019,Cornell University,"INHS, Inc",Governement sale
+295,45,Ithaca,"217 Commercial Ave(Ithaca, None)",None,"$635,000",October-24-2019,"Commercial Ave Holdings,",Ithaca Lodge No 666,Standard (arm's length)
+296,46,Ithaca,"402 Cayuga St S(Ithaca, None)",None,"$30,000",October-22-2019,Ithaca Urban Renewal Agen,"INHS, Inc",Governement sale
+297,47,Ithaca,"113 Blair St(Ithaca, None)",None,"$310,000",October-21-2019,"Kim, Jinee","Oza, Joe R",Standard (arm's length)
+298,48,Ithaca,"204 Homestead Terrace(Ithaca, None)",None,"$306,500",October-21-2019,"Eromin, Alison","Tschida, Katherine",Standard (arm's length)
+299,49,Ithaca,"317 Tioga St N(Ithaca, None)",None,$1,October-18-2019,"Doepke, Executor, Michael D","Stevens, John Alden","Buyer is seller, Not a sale deed"
+300,0,Ithaca,"131 King Rd W(Ithaca, None)",None,"$335,000",October-18-2019,"Levine, David","Witkiewicz, Kelsey",Standard (arm's length)
+301,1,Ithaca,"214 Bryant Ave(Ithaca, None)",None,$1,October-17-2019,"Tang, Hongyan","Hongyan Tang, Trustee","Buyer is seller, Not a sale deed"
+302,2,Ithaca,"105 Valley View Rd(Ithaca, None)",None,"$287,500",October-17-2019,"Boccarosse, Elizabeth","N. P. Dodge, Jr, as Trustee",Standard (arm's length)
+303,3,Ithaca,"105 Valley View Rd(Ithaca, None)",None,"$270,000",October-17-2019,"N. P. Dodge, Jr, as Trustee","Gallo, Daniel M",Standard (arm's length)
+304,4,Ithaca,"2 Rocky Ln(Ithaca, None)",None,"$275,000",October-16-2019,Estate of Rocco P Lucente,"Anderson, Erica",Standard (arm's length)
+305,5,Ithaca,"301 Maple Ave(Ithaca, None)",None,$1,October-16-2019,"Bruce D Abbott Mngt, LLC",Cornell University,
+306,6,Ithaca,"349 Stone Quarry Rd(Ithaca, None)",None,$1,October-16-2019,"Berggren, Travis E","Berggren, Joshua",Sale between relatives
+307,7,Ithaca,"107 Marshall St E(Ithaca, None)",None,"$350,000",October-15-2019,"Thompson, Morgan","Kueck, Aaron",Standard (arm's length)
+308,8,Ithaca,"610-612 Albany St S(Ithaca, None)",None,"$264,792",October-11-2019,"Szerman, Arlyne","Noonan, Raymond A",Standard (arm's length)
+309,9,Ithaca,"213 Muriel St(Ithaca, None)",None,"$203,500",October-10-2019,"Kim, Jinee","Law, Jane Marie",Standard (arm's length)
+310,10,Ithaca,"306 Sunnyview Ln(Ithaca, None)",None,"$250,000",October-10-2019,"Stein, Melanie","Fix, Limor",Standard (arm's length)
+311,11,Ithaca,"230 Strawberry Hill Cir No(Ithaca, None)",None,"$225,000",October-10-2019,"Lohmus, Marika","Roswell, Skyler",Standard (arm's length)
+312,12,Ithaca,"715 Aurora St N(Ithaca, None)",None,"$315,000",October-10-2019,"Slade, Richard A","Lund, Spencer",Standard (arm's length)
+313,13,Ithaca,"323 & 325 Buffalo St W(Ithaca, None)",None,$1,October-10-2019,"MCK 323, LLC","Shames, Melissa B","Buyer is seller, Not a sale deed"
+314,14,Ithaca,"407 Cliff St(Ithaca, None)",None,"$1,000",October-10-2019,"407 Holdings, LLC","Hart, Laurel",Standard (arm's length)
+315,15,Ithaca,"305 Seven Mile Dr(Ithaca, None)",None,"$300,000",October-10-2019,"Vitucci, Michael","Cody, Maura",Standard (arm's length)
+316,16,Ithaca,"211 Pleasant St(Ithaca, None)",None,"$232,000",October-09-2019,"211 Pleasant, LLC","Notre Ville, LLC",Standard (arm's length)
+317,17,Ithaca,"119 Irving Place(Ithaca, None)",None,"$370,000",October-09-2019,"Keane, Marc P","Arbach, Angela",Standard (arm's length)
+318,18,Ithaca,"316 Cascadilla St(Ithaca, None)",None,"$258,000",October-09-2019,"316 Cascadilla, LLC","Votre Maison, LLC",Standard (arm's length)
+319,19,Ithaca,"409 Cascadilla St(Ithaca, None)",None,"$266,000",October-08-2019,"McCray, Tyi L","Abbott, Erika A",
+320,20,Ithaca,"110 Highland Ave(Ithaca, None)",None,$1,October-07-2019,"Bonheim, Jill",Jill Bonheim Revocable Tr,"Buyer is seller, Not a sale deed"
+321,21,Ithaca,"203 Snyder Hill Rd(Ithaca, None)",None,"$213,000",October-04-2019,"Altes, Dean","Scarpulla, James",Standard (arm's length)
+322,22,Ithaca,"205-07 Yates St E(Ithaca, None)",None,$1,October-04-2019,"Fall Creek Living, LLC","Fall Creek Living, LLC","Buyer is seller, Not a sale deed"
+323,23,Ithaca,"327 & 329 Court St W(Ithaca, None)",None,$1,October-04-2019,"Cho, Han","Fall Creek Living, LLC","Buyer is seller, Not a sale deed"
+324,24,Ithaca,"515 Plain St S(Ithaca, None)",None,$1,October-03-2019,City of Ithaca,"Feagin, Helen E",Not a sale deed
+325,25,Ithaca,"159 Kendall Ave(Ithaca, None)",None,"$155,000",October-03-2019,"Iacovelli, Lawrence E","Iacovelli, Mark",
+326,26,Danby,"Gunderman Rd(Danby, None)",None,"$93,000",October-03-2019,First Ithaca Chinese Chri,"Clements, Thomas D",Standard (arm's length)
+327,27,Ithaca,"10 Orchard Hill Rd(Ithaca, None)",None,"$305,000",October-03-2019,"Dietrich, Timothy P","Epps-Cepero, Paula",Standard (arm's length)
+328,28,Ithaca,"90 Whitetail Dr(Ithaca, None)",None,"$194,500",October-02-2019,"LeDoux, Lisa","Diemond, Christian R",Standard (arm's length)
+329,29,Ithaca,"514 Warren Rd(Ithaca, None)",None,$1,October-01-2019,"Barden, Amylee E",514 Warren LLC,"Related company sale, Not a sale deed"
+330,30,Ithaca,"116 McIntyre Pl(Ithaca, None)",None,"$389,900",October-01-2019,"He, Ming","Wang, Hui",Standard (arm's length)
+331,31,Ithaca,"3B Vista Dr(Ithaca, None)",None,"$186,000",October-01-2019,"Beers, Rodney W","LaBorie, Carol",Standard (arm's length)
+332,32,Ithaca,"306 Bryant Ave(Ithaca, None)",None,"$635,000",September-30-2019,"Liguori, Margaret K","306 Bryant Ave, LLC",Standard (arm's length)
+333,33,Ithaca,"110 Highland Ave(Ithaca, None)",None,"$526,000",September-30-2019,"Ley, Barbara G","Bonheim, Jill",Standard (arm's length)
+334,34,Ithaca,"517 Albany St S(Ithaca, None)",None,"$75,000",September-30-2019,"Peter, David Brian, Estate of","Peter, Michelle","Not a sale deed, Sale between relatives"
+335,35,Ithaca,"321 Taughannock Blvd(Ithaca, None)",None,"$425,000",September-30-2019,"Hunter Development, Inc","Waterfront Alchemy, LLC",
+336,36,Ithaca,"324-326 Geneva St N(Ithaca, None)",None,"$424,500",September-30-2019,"324-326 North Geneva St,","Piccirilli, Fred",Standard (arm's length)
+337,37,Ithaca,"37 Penny Ln(Ithaca, None)",None,$1,September-30-2019,"Cook, Shoshana K",Shoshana Kate Cook Revoca,"Buyer is seller, Not a sale deed"
+338,38,Ithaca,"175 Williams Glen Rd(Ithaca, None)",None,"$263,000",September-27-2019,"OMara, Stephen","Lambert, Rachel",Standard (arm's length)
+339,39,Ithaca,"306 Ithaca Rd(Ithaca, None)",None,$1,September-27-2019,"Martyn, Elizabeth M",E Martyn & M Ryzewic Revo,"Buyer is seller, Not a sale deed"
+340,40,Ithaca,"110 Troy Rd(Ithaca, None)",None,"$253,000",September-27-2019,"Jacobson, Barry R","Johnson, Andrew S",Standard (arm's length)
+341,41,Ithaca,"210 Wildflower Dr #3(Ithaca, None)",None,"$180,000",September-25-2019,"Stephen Lamb as Executor, of the Estate of","Gold, Carvel",Standard (arm's length)
+342,42,Ithaca,"142 Westview Ln(Ithaca, None)",None,$1,September-25-2019,"Katz, Judith N",The Judith N Katz Revocab,Buyer is seller
+343,43,Ithaca,"845 Aurora St N(Ithaca, None)",None,"$228,000",September-25-2019,"Hinman, Geoffrey Bond","Houle-Hitz, Michelle M",Standard (arm's length)
+344,44,Ithaca,"10 Peachtree Ln(Ithaca, None)",None,"$325,000",September-25-2019,"Komaromi, Kurt K","Eisenberg, Ronald B",Standard (arm's length)
+345,45,Ithaca,"702 Hudson St(Ithaca, 14850)",14850,$1,September-24-2019,"702 Hudson St, LLC","Fox, Todd S","Related company sale, Not a sale deed"
+346,46,Ithaca,"310-12 Pleasant St(Ithaca, None)",None,$1,September-24-2019,"Poole, Robert J","Poole, Matthew R","Buyer is seller, Sale between relatives"
+347,47,Ithaca,"Off Enfield Falls Rd(Ithaca, None)",None,"$139,000",September-24-2019,"Young, John F and, Susan M Barnett,",People of New York State,Governement sale
+348,48,Ithaca,"110 Triphammer Rd(Ithaca, None)",None,"$269,000",September-23-2019,Cornell University,"Remponi, Luisa","Not a sale deed, Interest conveyed"
+349,49,Ithaca,"115 Pinewood Pl(Ithaca, 14850)",14850,"$325,000",September-23-2019,"Rohrer, Virginia Gray","Brown, Anthony C",Standard (arm's length)
+350,0,Ithaca,"1021 Danby Rd(Ithaca, None)",None,"$130,000",September-23-2019,The Danby Trust,"Browne, Jill",Standard (arm's length)
+351,1,Ithaca,"310 East Falls St(Ithaca, 14850)",14850,"$207,000",September-23-2019,"MacLean, Carolyn","Simkin, Elizabeth P",Standard (arm's length)
+352,2,Ithaca,"514 Cliff St(Ithaca, 14850)",14850,"$162,000",September-20-2019,"Alexander, Sarah M","de Villiers, Alyssa Jane",Standard (arm's length)
+353,3,Ithaca,"West King Rd(Ithaca, 14850)",14850,"$115,000",September-20-2019,"Harrick, Heather","Forest, Claire",
+354,4,Ithaca,"701 & 708 Buffalo St W(Ithaca, None)",None,"$2,300,000",September-19-2019,"Argyle Associates, LLC","Agora of Ithaca, LLC",
+355,5,Ithaca,"95 Penny Ln(Ithaca, 14850)",14850,"$208,000",September-19-2019,"Sampsel, Jacqueline","Truame, Anneliese",Standard (arm's length)
+356,6,Ithaca,"606 Aurora St N(Ithaca, 14850)",14850,"$45,000",September-17-2019,"Rosentel, Jill","Conrad, Kimberly",
+357,7,Ithaca,"410 Teton Ct(Ithaca, 14850)",14850,"$434,100",September-17-2019,"Benedict, Daniel","Vansant, Kent N",Standard (arm's length)
+358,8,Ithaca,"405-407 Green St W(Ithaca, 14850)",14850,"$470,000",September-16-2019,"Dietz, Robert N","401-407 Green Street, LLC",Standard (arm's length)
+359,9,Ithaca,"115 Pennsylvania Ave(Ithaca, None)",None,$1,September-16-2019,Estate of Holly C Vance,"Everhart, Corine K",Sale between relatives
+360,10,Ithaca,"401 Green St W(Ithaca, 14850)",14850,$1,September-16-2019,"Stavropoulos, Bia","401-407 Green Street, LLC","Buyer is seller, Related company sale"
+361,11,Ithaca,"402 Hancock St(Ithaca, None)",None,"$169,000",September-13-2019,"Yonkin, Brian",Norma C Wasmuth Revocable,Standard (arm's length)
+362,12,Ithaca,"628 Coddington Rd(Ithaca, 14850)",14850,"$263,000",September-13-2019,"Burke, Katherine","Dong, Kevin",Standard (arm's length)
+363,13,Ithaca,"414 Richard Pl(Ithaca, 14850)",14850,"$281,500",September-12-2019,"Valero, Maria Virginia Carbajo","Harkins, Marie",Standard (arm's length)
+364,14,Ithaca,"100 Christopher Circle(Ithaca, 14850)",14850,"$319,000",September-11-2019,"Giordano, Joseph G","Memar, Arash",Standard (arm's length)
+365,15,Ithaca,"109 York St W(Ithaca, 14850)",14850,"$392,500",September-10-2019,"Jemetz, Bohdan","Turner, Frederick W",Standard (arm's length)
+366,16,Ithaca,"207 Pleasant St(Ithaca, 14850)",14850,"$225,000",September-10-2019,"Miller, Esq - Referee, Deborah Wolf","Garrison, Ira",Not a sale deed
+367,17,Ithaca,"112 & 524 Farm St & Albany St N(Ithaca, 14850)",14850,"$432,190",September-09-2019,"Marsden, Gary","Schreck, Andrew",Standard (arm's length)
+368,18,Ithaca,"543 Spencer Rd(Ithaca, 14850)",14850,$1,September-06-2019,"Brindisi (f/k/a Belyea), Kathryn (f/k/a Kathryn J)","Brindisi, Michael","Buyer is seller, Not a sale deed, Sale between relatives"
+369,19,Ithaca,"145 Hawthorne Pl(Ithaca, 14850)",14850,"$120,000",September-05-2019,"Acharya, Urmila (Estate of)","Lapp, Julia L",
+370,20,Ithaca,"239 Hector St(Ithaca, 14850)",14850,"$280,888",September-04-2019,"Eichten, Debra O","Bowers, John S",Standard (arm's length)
+371,21,Ithaca,"540 Warren Rd(Ithaca, 14850)",14850,"$575,000",September-04-2019,"Lucente Homes, LLC","Warren Rd of Ithaca, LLC",Standard (arm's length)
+372,22,Ithaca,"112 Kay St(Ithaca, 14850)",14850,"$285,000",September-03-2019,"Earle, Marion","Dexter, Caleb",Standard (arm's length)
+373,23,Ithaca,"116 Dey St(Ithaca, 14850)",14850,$1,August-30-2019,"VanDeWeert, Steven A","VanDeWeert, Lynn R","Buyer is seller, Not a sale deed, Sale between relatives"
+374,24,Ithaca,"216/244/25 Pennsylvania Ave/Coddingt(Ithaca, 14850)",14850,"$450,000",August-27-2019,"Iacovelli, Ralph","Watros, Dylan M",Sale between relatives
+375,25,Ithaca,"211 Hayts Rd(Ithaca, 14850)",14850,$1,August-26-2019,"Thayer, Joanne E","Thayer, Douglas J","Buyer is seller, Sale between relatives"
+376,26,Ithaca,"274 Hayts Rd(Ithaca, 14850)",14850,$1,August-26-2019,"Willis, Judith E, Estate of","Grosvenor, David",Not a sale deed
+377,27,Lansing,"2430 N Triphammer Rd(Lansing, 14850)",14850,"$2,125,000",August-23-2019,"Timemon Holding, Company LLC","CL Properties of Ithaca,",Standard (arm's length)
+378,28,Ithaca,"1302 Cayuga St N(Ithaca, 14850)",14850,$1,August-23-2019,"Miller, Susan","Miller, Susan N","Buyer is seller, Sale between relatives"
+379,29,Ithaca,"425 Tioga St N(Ithaca, 14850)",14850,$1,August-22-2019,"Ecklund, Paul R","Revocable Trust Agreement, for the Lois E Ecklund","Buyer is seller, Sale between relatives"
+380,30,Ithaca,"46 Chase Ln(Ithaca, 14850)",14850,$1,August-22-2019,"Hines, Melissa A",Melissa A Hines Revocable,Buyer is seller
+381,31,Ithaca,"Enfield Falls Rd(Ithaca, 14850)",14850,"$63,500",August-22-2019,"Young, John F, Barnett, Susan M","Diane B Schwartz, Trustee, Diane B Schwartz Rev Livi",Standard (arm's length)
+382,32,Ithaca,"721 Cliff St(Ithaca, 14850)",14850,"$229,000",August-21-2019,"Putalik, Erin S","Braun, Erik",Standard (arm's length)
+383,33,Ithaca,"211 Albany St S(Ithaca, 14850)",14850,"$392,500",August-21-2019,"Cope, Edward A","Gregory Levins Exempt Tru, Karen Staschower Qual-Per",Standard (arm's length)
+384,34,Ithaca,"96 Ithaca Rd(Ithaca, 14850)",14850,"$405,000",August-21-2019,"Ficorelli, Anna M","Bian, Lin",Standard (arm's length)
+385,35,Ithaca,"124 Judd Falls Rd(Ithaca, 14850)",14850,"$325,000",August-20-2019,"Mooney, Estate of Robert Warren","Barrington, Linda J",Standard (arm's length)
+386,36,Ithaca,"124-26 Spencer St E(Ithaca, 14850)",14850,"$478,000",August-20-2019,"Epthimiatos, William","Fournier, Robert",Standard (arm's length)
+387,37,Ithaca,"323 Winthrop Dr(Ithaca, 14850)",14850,"$375,000",August-20-2019,"Lahr, Stephen P","Napp, Nils E",Standard (arm's length)
+388,38,Ithaca,"1458 Slaterville Rd(Ithaca, 14850)",14850,$1,August-19-2019,"Roth, Debra","Jacoby, Debra","Buyer is seller, Not a sale deed, Sale between relatives"
+389,39,Ithaca,"701 Cliff St(Ithaca, 14850)",14850,"$67,500",August-16-2019,"Muirhead, Charles A","Boggs, Zachary M",Standard (arm's length)
+390,40,Ithaca,"111 Titus Ave S(Ithaca, 14850)",14850,"$195,500",August-16-2019,"Rutkowski, Jessica E","Cai, Shiyu",Standard (arm's length)
+391,41,Ithaca,"121 Farm St(Ithaca, 14850)",14850,"$362,936",August-16-2019,"Herson, Ann Mary","Walder, Brian E",Standard (arm's length)
+392,42,Ithaca,"207-15 Fall Creek Dr(Ithaca, 14850)",14850,$1,August-16-2019,Cornell University,"Fall Creek Partners, LLC","Buyer is seller, Not a sale deed"
+393,43,Ithaca,"514 Warren Rd(Ithaca, 14850)",14850,"$215,000",August-16-2019,"Bergstrom, Andrew R","Gray, Michael H",Standard (arm's length)
+394,44,Ithaca,"109-503 Summerhill Ln(Ithaca, 14850)",14850,"$9,250,000",August-15-2019,"Janivar Plaza East, LLC","Chester Heights, Equities, LLC",
+395,45,Ithaca,"315 Dey St(Ithaca, 14850)",14850,"$400,000",August-15-2019,"Simon, Emily","Wolff, John U",Standard (arm's length)
+396,46,Ithaca,"106 Highland Ave(Ithaca, 14850)",14850,$1,August-15-2019,Cornell University,"Lewis, Susan L","Buyer is seller, Not a sale deed"
+397,47,Ithaca,"1309 State St E(Ithaca, 14850)",14850,"$274,000",August-15-2019,"Miller, Peter J","Aydemir, Fikret",Standard (arm's length)
+398,48,Ithaca,"114-315 Summerhill Dr(Ithaca, 14850)",14850,"$3,500,000",August-15-2019,"Summerhill Ithaca, Townhouses, LLC","Summerhill, Equities, LLC",
+399,49,Ithaca,"205 Buffalo St W(Ithaca, 14850)",14850,"$253,655",August-14-2019,"Gillam, Joseph W","Archin, Dara Lee",Standard (arm's length)
+400,0,Ithaca,"131 Christopher Circle(Ithaca, 14850)",14850,"$225,000",August-14-2019,"Brampton, Hazel Brill (Estate of)","Sawyer, Shaina & Kibwe",Not a sale deed
+401,1,Ithaca,"104 Joanne Dr(Ithaca, 14850)",14850,"$229,000",August-13-2019,"Jones, David M Jr","Hutchins, Drew A",Standard (arm's length)
+402,2,Ithaca,"824 Aurora St N(Ithaca, 14850)",14850,"$345,000",August-12-2019,"Pickard, Victor W","Torop, Daniel",Standard (arm's length)
+403,3,Ithaca,"9 Cornell Walk(Ithaca, 14850)",14850,"$333,000",August-12-2019,"Durnford, Tiimothy J","Florea, Cristina",Standard (arm's length)
+404,4,Ithaca,") & ) & 11 Hillcrest Dr & Williams G(Ithaca, 14850)",14850,$1,August-10-2019,"Berggren, Betty Jane","Monroe, Kathi M","Multiple SWIS, Sale between relatives"
+405,5,Ithaca,"316 Turner Pl(Ithaca, 14850)",14850,$1,August-09-2019,"Roth, Debra","Jacoby, Debra","Buyer is seller, Not a sale deed, Sale between relatives"
+406,6,Ithaca,"311 Buffalo St W(Ithaca, 14850)",14850,$1,August-09-2019,"West Buffalo Holdings, LL","Helm, Rebecca K","Buyer is seller, Related company sale"
+407,7,Ithaca,"145 Burleigh Dr(Ithaca, 14850)",14850,"$220,000",August-09-2019,"Quigley, Michael N","Gao, Zefeng",Standard (arm's length)
+408,8,Ithaca,"114 Whitetail Dr(Ithaca, 14850)",14850,"$188,000",August-09-2019,"Beshara, Mazen","Griffin, Michael John",Standard (arm's length)
+409,9,Ithaca,"412 N Aurora St(Ithaca, 14850)",14850,"$400,000",August-09-2019,"Sheiman, Richard S","Brain, Joel D",Standard (arm's length)
+410,10,Ithaca,"1006.5 Cayuga St N(Ithaca, 14850)",14850,"$210,000",August-07-2019,"Brian, Joel","Burke, Jr, Thomas J",Standard (arm's length)
+411,11,Ithaca,"1320 Hanshaw Rd(Ithaca, 14850)",14850,"$195,000",August-06-2019,"Ippolito, Vincent G","Minner, Dale E",Standard (arm's length)
+412,12,Ithaca,"114 Northview Rd(Ithaca, 14850)",14850,"$292,000",August-06-2019,"Dubrule, as Exec/Individ, Danielle","Family Trust, Hannah D Shalett",Standard (arm's length)
+413,13,Ithaca,"203 Walnut St(Ithaca, 14850)",14850,"$324,000",August-05-2019,"Olson, Christine Marie","Zhou, Aifen",Standard (arm's length)
+414,14,Ithaca,"50 Whitetail Dr(Ithaca, 14850)",14850,"$190,000",August-05-2019,"Hayes, Pamela M","Wilder, Tara S",Standard (arm's length)
+415,15,Ithaca,"322 Blackstone Ave(Ithaca, 14850)",14850,"$358,000",August-05-2019,"Grossman, Dale A","Dakpa, Thupten",Standard (arm's length)
+416,16,Ithaca,"853 Taughannock Blvd(Ithaca, 14850)",14850,$1,August-05-2019,"Mumford, Marion","Mumford, Marian","Buyer is seller, Not a sale deed, Sale between relatives"
+417,17,Ithaca,"423 Seneca St E(Ithaca, 14850)",14850,"$679,500",August-05-2019,"Kinzler, Katherine Diane","Adams, Andrew R",Standard (arm's length)
+418,18,Ithaca,"911 N Cayuga St(Ithaca, 14850)",14850,"$299,000",August-02-2019,"McIntyre, Robert","Comella, Michael V",Standard (arm's length)
+419,19,Ithaca,"1011 Aurora St N(Ithaca, 14850)",14850,$1,August-02-2019,"Geldenhuys, Mariette",Flora Jardine LLC,"Buyer is seller, Related company sale, Not a sale deed"
+420,20,Ithaca,"65 Woodcrest Ave(Ithaca, 14850)",14850,"$380,000",August-02-2019,"Sanchez, Jose M","Brotman, Benjamin J",Standard (arm's length)
+421,21,Ithaca,"412 Aurora St S(Ithaca, 14850)",14850,"$256,470",August-02-2019,"Henderson, Eleanor A","Utz, Jr, James E",Standard (arm's length)
+422,22,Ithaca,"20 Chase Ln(Ithaca, 14850)",14850,"$180,000",August-02-2019,"Mitrano, Tracy B","Mitrano, Tracy B",Buyer is seller
+423,23,Ithaca,"151 Enfield Falls Rd(Ithaca, 14850)",14850,"$375,000",August-02-2019,"Farrell, Thomas J","Wright, Brandon T",Standard (arm's length)
+424,24,Ithaca,"29 Fairway Dr(Ithaca, 14850)",14850,"$740,825",August-02-2019,"Verma, Rohit","Zhang, Xinyu",Standard (arm's length)
+425,25,Lansing,"Fiddlers Ridge(Lansing, 14882)",14882,"$77,500",August-02-2019,"Cutting Cars of, Ithaca, Inc","Sims, William Riley Jr",Standard (arm's length)
+426,26,Ithaca,"109 Larisa Ln(Ithaca, 14850)",14850,"$508,000",August-01-2019,"Smith, Dean John","Gadikota, Greeshma",Standard (arm's length)
+427,27,Ithaca,"704-06, 70 Buffalo St W(Ithaca, 14850)",14850,"$900,000",August-01-2019,"Digiacomo, Angelo R","Bridges Development, Group, LLC",
+428,28,Ithaca,"408 Utica St(Ithaca, 14850)",14850,"$252,000",July-31-2019,"Fenner, Robert C","Josey, Monica",Standard (arm's length)
+429,29,Ithaca,"210 East Falls St(Ithaca, 14850)",14850,"$263,000",July-31-2019,"Rosenberg, Jenna","Edwards, Tyler H",Standard (arm's length)
+430,30,Ithaca,"320 Old Gorge Rd(Ithaca, 14850)",14850,"$568,000",July-31-2019,"Kelley, Karen Sue","Loeffelman, Michael P",Standard (arm's length)
+431,31,Ithaca,"614 N Aurora St(Ithaca, 14850)",14850,"$301,028",July-31-2019,"Willmer, Abigail","Mondak, Sonam Dolkar",Standard (arm's length)
+432,32,Ithaca,"414 Spencer Rd(Ithaca, 14850)",14850,"$160,000",July-31-2019,"Owen, Sally Jane","Ritter, Eleanor R",Standard (arm's length)
+433,33,Ithaca,"508 Seneca St W(Ithaca, 14850)",14850,"$245,000",July-30-2019,"Westlake, Winfield","Marchel, Alex",Standard (arm's length)
+434,34,Ithaca,"418 Winthrop Dr(Ithaca, 14850)",14850,"$329,000",July-30-2019,"Reese, Jean","Tewksbury, Gary Lee",Standard (arm's length)
+435,35,Ithaca,"925 Mitchell St, Unit 8(Ithaca, None)",None,"$381,500",July-30-2019,"Gilgen, Peter","Myers, Linda",Standard (arm's length)
+436,36,Ithaca,"236 Bundy Rd(Ithaca, 14850)",14850,"$195,900",July-30-2019,"Fogarty, Yvonne D","Piha, Cyndy J",Standard (arm's length)
+437,37,Ithaca,"702 Willow Ave(Ithaca, 14850)",14850,"$220,000",July-30-2019,"The Haunt of New York,, Inc","City Harbor, LLC",Standard (arm's length)
+438,38,Ithaca,"674 Coddington Rd(Ithaca, 14850)",14850,"$100,000",July-29-2019,"Goodhew, William H","Levine, Eric S",
+439,39,Ithaca,"201 Wildflower Dr, #3(Ithaca, 14850)",14850,"$207,000",July-29-2019,"Ji, Guang","Chen, Ying",Standard (arm's length)
+440,40,Ithaca,"424 N Titus Ave(Ithaca, 14850)",14850,"$295,000",July-26-2019,"Derito, Christopher M","Kramer, Cheryl",Standard (arm's length)
+441,41,Ithaca,"112 West Jay St(Ithaca, 14850)",14850,"$350,000",July-26-2019,"Wold, Sandra Lynn","Knutson, Allen Ivar",Standard (arm's length)
+442,42,Ithaca,"238 Sapsucker Woods Rd(Ithaca, 14850)",14850,$1,July-26-2019,"Stoneman, Neil P","Cindy Lou Stoneman LiTr, The Neil Peter Stoneman","Buyer is seller, Not a sale deed, Sale between relatives"
+443,43,Ithaca,"815-17 North Aurora St(Ithaca, 14850)",14850,$1,July-25-2019,"Stavropoulos, Nikolaos","815-17 N Aurora Street,, LLC","Related company sale, Not a sale deed"
+444,44,Ithaca,"260 Seven Mile Dr(Ithaca, 14850)",14850,"$230,000",July-25-2019,"Clark, Janet E","Clark, Jeffrey A",Sale between relatives
+445,45,Ithaca,"310-312 Lincoln St E(Ithaca, 14850)",14850,"$359,500",July-25-2019,"Rogers, Michael","Bruckmann, Suzanne",Standard (arm's length)
+446,46,Ithaca,"220 Wildflower Drive, #2(Ithaca, 14850)",14850,"$180,400",July-25-2019,"Shen, Xiling","Porter, John",Standard (arm's length)
+447,47,Ithaca,"111 Tudor Rd(Ithaca, 14850)",14850,"$346,400",July-24-2019,"Johnson, Edith W","Caudill, Marie A",Standard (arm's length)
+448,48,Ithaca,"630 Spencer Rd(Ithaca, 14850)",14850,"$95,000",July-23-2019,"Allen, Ardell, f/k/a Ardell Allen Alling","Compton, Jessica",Sale between relatives
+449,49,Ithaca,"304 East Marshall St(Ithaca, 14850)",14850,$1,July-22-2019,"Coogan, Anna","Miner, Brooks","Buyer is seller, Not a sale deed, Sale between relatives"
+450,0,Ithaca,"118 Heights Court(Ithaca, 14850)",14850,"$295,000",July-22-2019,"Chan, Garnet K-L","Kizilcec, Rene F",Standard (arm's length)
+451,1,Ithaca,"315 Taylor Pl(Ithaca, 14850)",14850,"$522,100",July-19-2019,"Salmon, Peter Morgan","Basran, Parminder S",Standard (arm's length)
+452,2,Ithaca,"43 Penny Ln(Ithaca, 14850)",14850,"$164,000",July-19-2019,"43 Penny Lane, Holdings, LLC","Mendoza, Isabel",Standard (arm's length)
+453,3,Ithaca,"1018 Hanshaw Rd(Ithaca, 14850)",14850,"$372,000",July-19-2019,"Ptak, Christopher P","Curran, Kerry E",Standard (arm's length)
+454,4,Ithaca,"313 Roat St(Ithaca, 14850)",14850,"$451,000",July-19-2019,"Merrill, J Tyson","Park, Tae Youn",Standard (arm's length)
+455,5,Ithaca,"1401 Mecklenburg Rd(Ithaca, 14850)",14850,"$165,000",July-18-2019,"Koyanagi, Dean, Tregaskis, Sharon","Posner, Michael D",Standard (arm's length)
+456,6,Ithaca,"106 Taylor Pl(Ithaca, 14850)",14850,"$166,000",July-18-2019,"Heslop, Steven M","Kaplan, Thomas A",Standard (arm's length)
+457,7,Ithaca,"250 Strawberry Hill Cir, No 4(Ithaca, 14850)",14850,"$280,000",July-17-2019,"McCarthy, James A Jr","Ruta-Czachor, Marysia A",Standard (arm's length)
+458,8,Ithaca,"9 Arrowwood Dr(Ithaca, 14850)",14850,$1,July-16-2019,"Moore, Mafalda R (nka Mafalda Mo","Roberts, Kaliel, Co-Trustee","Buyer is seller, Sale between relatives"
+459,9,Ithaca,"114 Park St(Ithaca, 14850)",14850,"$206,000",July-16-2019,"Bierce, Robert D","Drinkwater, Laurie",Standard (arm's length)
+460,10,Ithaca,"202 Elmwood Ave(Ithaca, 14850)",14850,"$285,000",July-15-2019,"Izzo, Joshua","N Projects, LLC",Standard (arm's length)
+461,11,Ithaca,"215-20 W Spencer St, Unit C1(Ithaca, 14850)",14850,"$329,000",July-15-2019,Net Zero NRG LLC,"Cope, Richenda M",Standard (arm's length)
+462,12,Ithaca,"16 Saunders Rd(Ithaca, 14850)",14850,$1,July-13-2019,"Golden, Lauren P","Appleton, Abraham T, as Trustee","Not a sale deed, Sale between relatives"
+463,13,Lansing,"65 Janivar Dr(Lansing, 14850)",14850,"$425,000",July-12-2019,"Chase, Jaekah R, Chase, Stephen D","IJ Construction II, of Ithaca, LLC",Standard (arm's length)
+464,14,Ithaca,"112 Eastern Heights Dr(Ithaca, 14850)",14850,"$215,000",July-12-2019,"Mukherjee, Ujjal","Tay, William Soon Hock",Standard (arm's length)
+465,15,Ithaca,"31 Penny Lane(Ithaca, 14850)",14850,"$167,500",July-12-2019,"She, George","Ma, Danna",Standard (arm's length)
+466,16,Ithaca,"1012 Trumansburg Rd(Ithaca, 14850)",14850,"$155,000",July-11-2019,"Carman, Douglas","Marshall, Devon",Standard (arm's length)
+467,17,Ithaca,"104 Salem Dr(Ithaca, 14850)",14850,"$255,000",July-11-2019,"Van Berkom, Linda K","Brenner Scher, Hagit",Standard (arm's length)
+468,18,Ithaca,"145 Honness Ln(Ithaca, 14850)",14850,"$350,000",July-10-2019,"Wolff, John U","Imani, Jasdev",Standard (arm's length)
+469,19,Ithaca,"306-308 Hook Pl(Ithaca, 14850)",14850,"$302,000",July-08-2019,"Bowes, II, Joseph L","Ferdinando, Anne Marie",Standard (arm's length)
+470,20,Ithaca,"19 Penny Lane(Ithaca, 14850)",14850,"$167,000",July-08-2019,"Gonzalez, Alfonso","Figary, Stephanie",Standard (arm's length)
+471,21,Ithaca,"108 Bridge St(Ithaca, 14850)",14850,"$250,000",July-03-2019,"City of Ithaca, NY","MacDonald, Trevor",Governement sale
+472,22,Ithaca,"419 Cayuga St N(Ithaca, 14850)",14850,"$482,000",July-03-2019,"Tangorra, by Referee, Louis","Barken Family Realty, LLC",Not a sale deed
+473,23,Ithaca,"322 Siena Dr(Ithaca, 14850)",14850,"$305,000",July-03-2019,"Pfaff, Danielle (a/k/a Danielle","Wagenet, Tyler",Standard (arm's length)
+474,24,Ithaca,"1022 Danby Rd(Ithaca, 14850)",14850,"$181,000",July-02-2019,"Hoover, Deborah J","Klohmann, Mark",Standard (arm's length)
+475,25,Ithaca,"405 Geneva St S(Ithaca, 14850)",14850,"$50,000",July-02-2019,"Bruns, Diane",Finger Lakes Turnkey LLC,
+476,26,Ithaca,"318 Taylor Pl(Ithaca, 14850)",14850,$1,July-02-2019,"Stavropoulos, Anastasia","Stavropoulos, Nikolaos","Buyer is seller, Not a sale deed, Sale between relatives"
+477,27,Ithaca,"150 Westhaven Rd(Ithaca, 14850)",14850,"$377,000",July-02-2019,"Sorrentino, Margo","Sipley, Jason",Standard (arm's length)
+478,28,Ithaca,"101 Pineview Dr(Ithaca, 14850)",14850,"$275,000",July-02-2019,"Stojanovic, Nikola","Seth, Suman",Standard (arm's length)
+479,29,Ithaca,"1125 Trumansburg Rd(Ithaca, 14850)",14850,"$379,000",July-02-2019,"Newman, Amy","Leonard, Matthew D",Standard (arm's length)
+480,30,Ithaca,"103 Terraceview Dr(Ithaca, 14850)",14850,$1,July-02-2019,"Lee, Anne","Sinko, Zhaleh","Not a sale deed, Sale between relatives"
+481,31,Ithaca,"104 Happy Ln(Ithaca, None)",None,"$295,000",July-02-2019,"Gould-Boyer, Jacqueline S","Buszard, Henry",Standard (arm's length)
+482,32,Ithaca,"101 Delaware Ave(Ithaca, 14850)",14850,$1,July-01-2019,"Lowi, Jason D (Co-Executor)","Lowi, Jason D","Not a sale deed, Sale between relatives"
+483,33,Ithaca,"9 Peachtree Ln(Ithaca, 14850)",14850,"$267,000",July-01-2019,"Stone, Helen","Lavine, Jacklyn G",Standard (arm's length)
+484,34,Ithaca,"1103 East Shore Dr(Ithaca, 14850)",14850,"$192,600",July-01-2019,"Sedgwick, Laurie D","Klopfer, Valerie A",Standard (arm's length)
+485,35,Ithaca,"134 Cleveland Ave(Ithaca, 14850)",14850,"$215,000",July-01-2019,"Edwards, Donald","Madan Ventures, LLC",
+486,36,Ithaca,"214 Meadow St N(Ithaca, 14850)",14850,"$750,000",June-30-2019,"Bull Bros, Inc","Fastrac EG, LLC",Related company sale
+487,37,Ithaca,"506 Mitchell St(Ithaca, 14850)",14850,"$334,000",June-28-2019,"Batten, Laura","Xu, Xiangtao",Standard (arm's length)
+488,38,Ithaca,"6 The Byway(Ithaca, 14850)",14850,"$430,500",June-28-2019,"Haldeman, James E","Hubner, Karolina",Standard (arm's length)
+489,39,Ithaca,"104 Eastern Heights Dr(Ithaca, 14850)",14850,"$267,000",June-28-2019,"Westin, Stephen H","Neugarten, Rachel A",Standard (arm's length)
+490,40,Ithaca,"210 University Ave(Ithaca, 14850)",14850,$1,June-28-2019,"Rothman, Trustee, Kimberly N","Glasse, Cyril","Not a sale deed, Sale between relatives"
+491,41,Ithaca,"115 Salem Dr(Ithaca, 14850)",14850,"$289,000",June-28-2019,"Johnson, Steven K","Schimenti, Rebecca S",Standard (arm's length)
+492,42,Ithaca,"62 Woodcrest Ave(Ithaca, 14850)",14850,"$324,742",June-27-2019,"Milner, Christopher J","Stoever, Jennifer Lynn",Standard (arm's length)
+493,43,Ithaca,"221 Renwick Dr(Ithaca, 14850)",14850,"$270,000",June-27-2019,"Smith, R David","Parr, Jeani",Standard (arm's length)
+494,44,Ithaca,"56 Lois Ln(Ithaca, 14850)",14850,"$145,000",June-26-2019,"Wiegand, Christopher, Wiegand, Jennifer","Valdivia, Clarissa",Standard (arm's length)
+495,45,Ithaca,"317 Elm St(Ithaca, 14850)",14850,"$269,000",June-26-2019,"Rhodes, David D","Cederstrom, Arthur",Standard (arm's length)
+496,46,Ithaca,"212 Fall Creek Dr(Ithaca, 14850)",14850,"$500,000",June-26-2019,"Fraser, Hilary T","Kysel, Ian M",Interest conveyed
+497,47,Ithaca,"1089 & 0 Taughannock Blvd(Ithaca, 14850)",14850,$1,June-26-2019,"Burns, Joseph A, Exec, Estate of Judith Burns","Burns, Joseph A, TTEE, Judith K Burns Disclaimer","Buyer is seller, Not a sale deed, Sale between relatives"
+498,48,Ithaca,"209 Eldridge Cir(Ithaca, 14850)",14850,"$525,000",June-26-2019,"Myers, Sharon A","Levy, Stephen L",Standard (arm's length)
+499,49,Ithaca,"507 Cascadilla St(Ithaca, 14850)",14850,"$160,936",June-25-2019,"Tsondu, Yeshi","Angel, Jay",Interest conveyed
