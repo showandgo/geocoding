@@ -1,3 +1,3 @@
-## This repo is to explore other Geo functions & Libraries
+## Test and showcase geocoding 
 
-1. Geo-coding
+The Jupyter notebook showcases geocoding real estate transactions in Ithaca, NY. Data was webscraped from NYdatabase.com, and spans Jun 2019 to Jul 2020. 
